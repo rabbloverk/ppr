@@ -1,9 +1,12 @@
 import React from 'react'
+import Prodectapi from './Prodectapi'
 
 function Perfumes() {
   return (
     <div>
-    Perfumes
+      <div>
+       <Prodectapi/>
+      </div>
     </div>
   )
 }

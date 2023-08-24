@@ -1,9 +1,12 @@
 import React from 'react'
+import Prodectapi from './Prodectapi'
 
 function Hours() {
   return (
     <div>
-     Hours
+      <div>
+       <Prodectapi/>
+     </div>
     </div>
   )
 }

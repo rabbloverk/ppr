@@ -1,9 +1,12 @@
 import React from 'react'
+import Prodectapi from './Prodectapi'
 
 function Cloth() {
   return (
     <div>
-      <h1>Cloth</h1>
+      <div>
+       <Prodectapi/>
+      </div>
     </div>
   )
 }

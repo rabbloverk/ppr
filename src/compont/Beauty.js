@@ -1,9 +1,12 @@
 import React from 'react'
+import Prodectapi from './Prodectapi'
 
 function Beauty() {
   return (
     <div>
-    Beauty
+       <div>
+        <Prodectapi/>
+       </div>
     </div>
   )
 }

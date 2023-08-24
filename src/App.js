@@ -10,7 +10,7 @@ import Hours from "./compont/Hours";
 import Perfumes from "./compont/Perfumes";
 import Beauty from "./compont/Beauty";
 import Home from "./Home";
-import Prodectapi from "./compont/Prodectapi";
+
 
 
 
@@ -25,12 +25,7 @@ export default function App(){
          <NavBar/>
          <Pagelistlink/>
        </div>
-       
-       
-
-        
-
-
+      
       <Routes>
        <Route path="/"                element={<Home/>}/>
        <Route path="/clothes"         element={<Cloth/>}/>

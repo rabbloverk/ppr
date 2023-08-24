@@ -1,9 +1,12 @@
 import React from 'react'
+import Prodectapi from './Prodectapi'
 
 function Shoes() {
   return (
     <div>
-    Shoes
+      <div>
+       <Prodectapi/>
+      </div>
     </div>
   )
 }

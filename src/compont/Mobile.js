@@ -1,9 +1,12 @@
 import React from 'react'
+import Prodectapi from './Prodectapi'
 
 function Mobile() {
   return (
     <div>
-    Mobile
+     <div>
+      <Prodectapi/>
+     </div>
     </div>
   )
 }
