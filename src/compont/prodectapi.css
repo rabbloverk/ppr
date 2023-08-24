@@ -1,0 +1,28 @@
+.contenercard{
+    width: 100vw;
+    height: auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.contcard{
+    width: 370px;
+    height: 350px;
+    margin: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: solid black 2px;
+    border-radius: 12px;
+}
+.imgapi{
+    width: 200px;
+    height: 250px;
+    padding: 20px;
+
+    
+}

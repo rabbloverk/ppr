@@ -1,0 +1,43 @@
+.contenr-nav{
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    background-color: #333333;
+    padding: 16px;
+    height: 80px;
+    width: 100vw;
+}
+.search{
+    padding: 10px;
+    border-radius: 16px;
+    width: 500px;
+    border: none;
+    font-weight: bold;
+}
+.Mowafer{
+    color: #fff;
+    font-size: 23px;
+    text-decoration: none;
+}
+.Mowafer:hover{
+    color: #f7c45f;
+}
+.icon{
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    list-style-type: none;
+    margin: 15px;
+    padding: 15px;
+}
+.fa-solid{
+    color: #fff;
+    padding: 15px;
+    margin: 15px;
+    cursor: pointer;
+    transform: 0.3s;
+    font-size: 20px;
+}
+.fa-solid:hover{
+    color: #f7c45f;
+}

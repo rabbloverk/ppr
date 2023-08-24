@@ -1,0 +1,31 @@
+.carsoel{
+    width: 65%;
+    height: 420px;
+}
+.d-block{
+    height: 420px;
+}
+.marka{
+    text-align: center;
+    margin-top: 25px;
+}
+.abouttt{
+    width: 35%;
+    height: 420px;
+    background-color: #28364b;
+
+}
+.abouttt-tx{
+    color: aliceblue;
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 20px;
+    padding: 15px;
+    line-height: 1.5;
+}
+.mofer{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: #f7c45f;
+    font-size: 50px;
+}
