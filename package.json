@@ -2,7 +2,7 @@
   "name": "my-appt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rabbloverk.github.io/Projectrash",
+  "homepage": "https://rabbloverk.github.io/Projectrashid",
   "dependencies": {
     "@mui/icons-material": "^5.14.3",
     "@testing-library/jest-dom": "^5.16.5",
