@@ -19,11 +19,13 @@ export default function App(){
     return(
       
     <BrowserRouter>
-      <div className="app">
+      <div  className="app">
 
        <div>
+
          <NavBar/>
          <Pagelistlink/>
+
        </div>
       
       <Routes>
@@ -40,9 +42,6 @@ export default function App(){
       
     </div>
     </BrowserRouter>
-    
-
-
 
       );
 }
